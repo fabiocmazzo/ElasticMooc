@@ -1,6 +1,6 @@
 ElasticMooc
 ===========
 
-Elastic Mooc for Suport a thousend concurrency students
+Elastic Mooc for Support a thousand concurrency students.
 
 Fork of a Moodle 2.7
